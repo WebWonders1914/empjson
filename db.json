@@ -1,0 +1,25 @@
+[
+    {
+        "name" : "Faisal",
+        "employee_salary" : 90,
+        "projects" : 5
+    },
+    
+    {
+        "name" : "Akshay",
+        "employee_salary" : 60,
+        "employee_age" : 6
+    },
+    
+    {
+        "name" : "Raj",
+        "employee_salary" : 80,
+        "employee_age" : 3
+    },
+    
+    {
+        "name" : "Karan",
+        "employee_salary" : 40,
+        "employee_age" : 8
+    }
+]
