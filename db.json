@@ -6,8 +6,8 @@
     [
      {"id":1,"points":9,"weeks":2},
                             {"id":2,"points":10,"weeks":4},
-                            {"id":3,"points":6,"weeks":6},
-                            {"id":4,"points":8,"weeks":8}],
+                            {"id":3,"points":8,"weeks":6},
+                            {"id":4,"points":10,"weeks":8}],
 
  
   "profile": {
